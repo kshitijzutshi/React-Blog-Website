@@ -1,4 +1,5 @@
 # React Blog Website
+
 ![GitHub last commit](https://img.shields.io/github/last-commit/kshitijzutshi/React-Blog-Website) ![GitHub repo size](https://img.shields.io/github/repo-size/kshitijzutshi/React-Blog-Website) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ### Making a Blog website by incorporating React DOM and various dependencies
@@ -11,3 +12,5 @@
 4. react-router Ver. 5.2.0
 5. react-router-dom Ver. 5.2.0
 6. sass-loader Ver. 10.0.2
+
+Progress -> https://www.youtube.com/watch?v=u3GX39CFUEY 8:23
