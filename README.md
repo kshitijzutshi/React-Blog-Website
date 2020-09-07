@@ -13,4 +13,8 @@
 5. react-router-dom Ver. 5.2.0
 6. sass-loader Ver. 10.0.2
 
+#### References:
+
+- https://ant.design/docs/react/introduce
+
 Progress -> https://www.youtube.com/watch?v=u3GX39CFUEY 8:23
