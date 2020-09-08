@@ -16,5 +16,4 @@
 #### References:
 
 - https://ant.design/docs/react/introduce
-
-Progress -> https://www.youtube.com/watch?v=u3GX39CFUEY 8:23
+- https://ionicons.com/
