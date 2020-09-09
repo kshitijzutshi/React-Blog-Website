@@ -42,7 +42,8 @@
     display: flex;
     align-items: center;
     list-style-type: none;
-    margin-right: 20px;
+    justify-content: flex-end;
+    padding-right: 0 20px 0 50px;
 
     a {
       text-decoration: none;
@@ -68,13 +69,30 @@
       left: -300px;
       flex-direction: column-reverse;
       transition: 300ms ease left;
+      padding: 0px;
+      padding-left: 30px;
+      a {
+        width: 100%;
+        padding: 0px;
+      }
+      li {
+        height: 65px;
+        display: flex;
+        align-items: center;
+      }
       ul {
         flex-direction: column;
         justify-content: flex-start;
+        padding: 0px;
+        padding-top: 20px;
       }
       ul,
-      li {
+      li,
+      .menu-avatar-container {
         width: 100%;
+      }
+      .menu-avatar-container {
+        padding-top: 20px;
       }
       &.active {
         left: 0px;

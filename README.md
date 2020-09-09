@@ -17,3 +17,5 @@
 
 - https://ant.design/docs/react/introduce
 - https://ionicons.com/
+
+https://www.youtube.com/watch?v=u3GX39CFUEY --> 25:11
